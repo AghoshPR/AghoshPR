@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Aghosh PR 👋
 
-<!--
-**AghoshPR/AghoshPR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python & Django Developer | Passionate About Learning, Building & Innovation**
 
-Here are some ideas to get you started:
+I'm a Python developer who loves building robust, scalable web applications using Django. I enjoy solving real-world problems with clean and efficient code. I'm also passionate about continuous learning, exploring new technologies, and growing as a developer every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies & Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frameworks:** Django
+- **Databases:** PostgreSQL, MySQL, SQLite ,MongoDB  
+- **Tools:** Git, GitHub, Docker, VSCode  
+- **Others:** REST APIs, Linux, JSON, Django ORM  
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Build more real-world Django applications  
+- 📚 Deepen my understanding of Django ORM & database design  
+- 🧠 Improve problem-solving through DSA (LeetCode / HackerRank)  
+- 🔄 Master Git & GitHub workflows (merge conflicts, pull requests)  
+- ☁️ Learn Docker and basic AWS for deployment  
+
+---
+
+## 🔥 Projects
+
+### 🎧 PodCraz – E-commerce Website for Earbuds
+> A fully-featured e-commerce platform built using Django.
+
+- Custom user authentication & OTP login
+- Product listing, cart, wishlist, order & payment system
+- Admin dashboard with analytics
+- Discount coupons, wallet, and rating system
+
+📂 [Repository](https://github.com/AghoshPR/Podcraz)
+
+---
+
+### 📊 AdminSample – Admin Dashboard in Django
+> Backend interface for managing users and operations efficiently.
+
+📂 [Repository](https://github.com/AghoshPR/AdminSample)
+
+---
+
+### 🌐 Web Clone Projects
+
+- 🔸 RazerClone (CSS-based)
+- 🔸 NetflixResponsive (HTML)
+- 🔸 FlipkartClone (HTML)
+- 🔸 Portfolio Website
+
+---
+
+## 📬 Connect With Me
+
+- 📧 Email: aghoshpr03@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/aghoshpr
+- 🐍 LeetCode: https://leetcode.com/u/Aghosh_pr/
+- 🌐 Portfolio:
+
+---
+
+🛠️ *“Striving to become a great software developer by building one project at a time.”*
+
