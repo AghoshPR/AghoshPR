@@ -19,10 +19,9 @@ I'm a Python developer who loves building robust, scalable web applications usin
 ## 🎯 Current Goals
 
 - 🚀 Build more real-world Django applications  
-- 📚 Deepen my understanding of Django ORM & database design  
 - 🧠 Improve problem-solving through DSA (LeetCode / HackerRank)  
 - 🔄 Master Git & GitHub workflows (merge conflicts, pull requests)  
-- ☁️ Learn Docker and basic AWS for deployment  
+
 
 ---
 
