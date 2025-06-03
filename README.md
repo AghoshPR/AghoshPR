@@ -59,9 +59,9 @@ I'm a Python developer who loves building robust, scalable web applications usin
 ## 📬 Connect With Me
 
 - 📧 Email: aghoshpr03@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/aghoshpr
-- 🐍 LeetCode: https://leetcode.com/u/Aghosh_pr/
-- 🌐 Portfolio:
+- 💼 LinkedIn: [linkedin.com/in/aghoshpr](https://linkedin.com/in/aghoshpr) 
+- 🐍 LeetCode: [leetcode.com/YourProfile](https://leetcode.com/)
+- 🌐 Portfolio: [Your Portfolio Site](https://your-portfolio.com)
 
 ---
 
