@@ -8,11 +8,13 @@ I'm a Python developer who loves building robust, scalable web applications usin
 
 ## 🚀 Technologies & Tools
 
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks:** Django
-- **Databases:** PostgreSQL, MySQL, SQLite ,MongoDB  
-- **Tools:** Git, GitHub, Docker, VSCode  
-- **Others:** REST APIs, Linux, JSON, Django ORM  
+• Languages: Python, JavaScript
+• Markup/Styling: HTML, CSS, Bootstrap, Tailwind CSS
+• Frameworks/Libraries: Django, React, Redux
+• Databases: MySQL, MongoDB
+• DevOps/Cloud: Docker, AWS (EC2)
+• Tools: Git, GitHub, VS Code, Figma, Postman
+• Core Concepts: Data Structures & Algorithms, OOP, Database Design, ORM, REST API 
 
 ---
 
