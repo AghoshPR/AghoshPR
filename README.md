@@ -1,4 +1,4 @@
-# Hi, I'm Aghosh PR 👋
+# Hi, I'm Aghosh PR 
 
 **Python & Django Developer | Passionate About Learning, Building & Innovation**
 
@@ -6,7 +6,7 @@ I'm a Python developer who loves building robust, scalable web applications usin
 
 ---
 
-## 🚀 Technologies & Tools
+##  Technologies & Tools
 
 • **Languages:** Python, JavaScript  
 • **Markup/Styling:** HTML, CSS, Bootstrap, Tailwind CSS  
@@ -18,16 +18,16 @@ I'm a Python developer who loves building robust, scalable web applications usin
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
-- 🚀 Build more real-world Django applications  
-- 🧠 Improve problem-solving through DSA (LeetCode / HackerRank)  
-- 🔄 Master Git & GitHub workflows (merge conflicts, pull requests)  
+-  Build more real-world Django applications  
+-  Improve problem-solving through DSA (LeetCode / HackerRank)  
+-  Master Git & GitHub workflows (merge conflicts, pull requests)  
 
 
 ---
 
-## 🔥 Projects
+##  Projects
 
 ### 🎧 PodCraz – E-commerce Website for Earbuds
 > A fully-featured e-commerce platform built using Django.
