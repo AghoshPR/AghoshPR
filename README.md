@@ -13,8 +13,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aghosh-pr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aghosh-pr/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aghosh_pr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aghosh.site/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AghoshPR)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aghoshpr03@gmail.com)
 
@@ -24,9 +25,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class AghoshPR:
@@ -52,7 +55,14 @@ me.say_hi()
 - 💡 Believer in **clean code**, **SOLID principles**, and **CI/CD workflows**
 - 📫 Reach me at **aghoshpr03@gmail.com**
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -118,7 +128,7 @@ me.say_hi()
 **Roles Supported:** `Student` • `Teacher` • `Admin`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AghoshPR)
-[![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://learnbridge.aghosh.site/)
 
 ---
 
@@ -139,7 +149,7 @@ me.say_hi()
 | 🚢 Deployment | Docker + AWS EC2 |
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AghoshPR/Podcraz)
-[![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://podcraze.aghosh.site/)
 
 ---
 
@@ -192,14 +202,14 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AghoshPR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AghoshPR&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AghoshPR&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AghoshPR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AghoshPR&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AghoshPR&theme=tokyonight&border_radius=10&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -241,7 +251,11 @@ me.say_hi()
 
 ---
 
-<img src="https://raw.githubusercontent.com/AghoshPR/AghoshPR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AghoshPR/AghoshPR/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AghoshPR/AghoshPR/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AghoshPR/AghoshPR/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
