@@ -156,7 +156,7 @@ me.say_hi()
 
 **Roles Supported:** `Student` • `Teacher` • `Admin`
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AghoshPR)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AghoshPR/LearnBridge)
 [![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://learnbridge.aghosh.site/)
 
 ---
